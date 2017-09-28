@@ -1,0 +1,18 @@
+brand:
+  - color: "#0CAA41"
+    property: "--primary-green"
+  - color: "#007549"
+    property: "--secondary-green"
+  - color: "#1861BF"
+    property: "--primary-blue"
+  - color: "#1D4F90"
+    property: "--secondary-blue"
+
+grays:
+  - color: "#0d0d0d"
+    property: "--color-black"
+  - color: "#404040"
+    property: "--color-gray"
+  - color: "#F2F2F2"
+    property: "--color-silver"
+

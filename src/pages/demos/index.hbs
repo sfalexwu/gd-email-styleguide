@@ -1,0 +1,15 @@
+---
+title: Demos
+notes: |
+  A place for project managers to view our current modules within the templates. Call out the module by name into the
+  copy docs.
+order: 2
+---
+
+<h1>Demos</h1>
+
+<p>Choose the modules by name and mention in the copy docs.</p>
+
+{{#each (pages "demos" ignore="index")}}
+  {{> drizzle.page-item }}
+{{/each}}

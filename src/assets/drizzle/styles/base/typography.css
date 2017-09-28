@@ -1,0 +1,10 @@
+body {
+  background-color: #fff !important;
+  font-family:'Lato', Helvetica, Arial, sans-serif;
+}
+
+code,
+pre {
+  font-family: var(--monospace), monospace !important;
+  font-size:0.8em;
+}

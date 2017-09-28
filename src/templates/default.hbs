@@ -1,0 +1,23 @@
+{{#extend "blank" htmlclass="drizzle-Layout" bodyclass="drizzle-Layout-body"}}
+  {{#content "head" mode="append"}}
+    <meta name="robots" content="noindex, nofollow">
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i,900,900i" rel="stylesheet">
+    <link rel="stylesheet" href="{{@root.baseurl}}/assets/drizzle/styles/drizzle.css">
+    <link rel="stylesheet" href="{{@root.baseurl}}/assets/toolkit/styles/toolkit.css">
+  {{/content}}
+  {{#content "body"}}
+    {{> drizzle.nav}}
+    <div class="drizzle-Layout-main drizzle-u-cf">
+      <div class="drizzle-u-pad drizzle-u-rhythm">
+        {{#block "main"}}
+
+        {{/block}}
+      </div>
+    </div>
+  {{/content}}
+  {{#content "foot"}}
+    <script src="{{@root.baseurl}}/assets/drizzle/scripts/drizzle.js"></script>
+    <script src="{{@root.baseurl}}/assets/toolkit/scripts/toolkit.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether-tooltip/1.2.0/js/tooltip.min.js"></script>
+  {{/content}}
+{{/extend}}

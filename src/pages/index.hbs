@@ -1,0 +1,30 @@
+---
+title: Overview
+order: 1
+---
+
+<h1>{{title}}</h1>
+
+<p>
+  This is a living styleguide / design system for Glassdoor's email templates. The goal is to keep our email projects
+  consistent and on brand. This will also help us scale, increase communication and lower our development times.
+</p>
+
+<h3>Getting Started</h3>
+
+<dl>
+  {{#with (page "demos/index")}}
+    <dt>
+      <a href="{{@root.baseurl}}/{{url}}">{{data.title}}</a>
+    </dt>
+    <dd class="drizzle-u-padBottom">
+      {{{data.notes}}}
+    </dd>
+  {{/with}}
+</dl>
+
+{{#each (pages "demos" ignore="index")}}
+  {{> drizzle.page-item }}
+{{/each}}
+
+
