@@ -1,16 +1,3 @@
----
-name: US Main
-notes: |
-
-links:
- Mkto: https://app-abm.marketo.com/#ET2631B2ZN14
-order: -2
-
-labels:
-  - inprogress
-  - approved
----
-
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml"
       xmlns:v="urn:schemas-microsoft-com:vml"
@@ -76,6 +63,13 @@ labels:
       #menucontainer table {margin-top:0!important;}
       .nestedtable {margin-top:0!important;display:block!important;}
     }
+    /* STRUCTURAL STYLES */
+    @media screen and (max-width:600px){
+      .mw100 {max-width:100% !important;}
+      .mbl-image-swap{content:url("http://") !important;max-width:600px !important;}
+      .mblImg{max-width:100%!important;}
+      .mblBorderHide {border:none!important;}
+    }
   </style>
   <!--[if mso]>
   <style type="text/css">
@@ -89,25 +83,14 @@ labels:
   </o:OfficeDocumentSettings>
 </xml><![endif]-->
 </head>
-<body style="Margin:0; padding:0; background-color:#ffffff;">
+<body style="Margin:0; padding:0; background-color:#e7e7e7;">
 <!--template container-->
-<div style="width:100%;background-color:#ffffff">
+<div style="width:100%;background-color:#e7e7e7;">
   <!--[if (gte mso 9)|(IE)]><table cellpadding="0" cellspacing="0" border="0" style="width:100%;"><tr><td align="center" style="background-color:#ffffff;"><![endif]-->
 
-  <!-- UPDATE PREVIEW TEXT HERE -->
-  <div id="preheader" class="mktEditable">
-    <div style="display: none; max-height: 0px; overflow: hidden;">
-      Glassdoor for Employers
-    </div>
-    <!-- Insert &zwnj;&nbsp; hack after hidden preview text -->
-    <div style="display: none; max-height: 0px; overflow: hidden;">
-      &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
-    </div>
-  </div>
-  <!-- /UPDATE PREVIEW TEXT HERE -->
 
   <!--[if (gte mso 9)|(IE)]><table align="center" cellpadding="0" cellspacing="0" border="0" style="width:602px;border:1px solid #c2c2c2;"><tr><td align="center"><![endif]-->
-  <div style="width:100%;max-width:600px;border:1px solid #404040;Margin:0 auto;Margin-top:20px;" class="mblBorderHide">
+  <div style="background-color:#ffffff; width:100%;max-width:600px;border:1px solid #404040;Margin:0 auto;Margin-top:20px;" class="mblBorderHide">
 
     <!--glassdoor logo-->
     <!--[if (gte mso 9)|(IE)]><table align="center" cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr><td align="center"><![endif]-->
@@ -144,7 +127,7 @@ labels:
                       <a target="_blank" href="https://www.linkedin.com/company/glassdoor-for-employers" style="text-decoration:none;"><img src="http://resources.glassdoor.com/rs/899-LOT-464/images/gd-inkedin-36x36.png" alt="LinkedIn" width="36" style="display:block;border:0;outline:0;padding:0;width:36px;height:auto;font-family:'Lato', Helvetica, Arial, sans-serif;font-size:14px;color:#ffffff;"></a>
                     </td>
                     <td align="center">
-                      <a target="_blank"  href="https://www.facebook.com/GDforEmployers" style="text-decoration:none;"><img src="http://resources.glassdoor.com/rs/899-LOT-464/images/gd-facebook-36x36.png" alt="Facebook" width="36" style="display:block;border:0;outline:0;padding:0;width:36px;height:auto;font-family:'Lato', Helvetica, Arial, sans-serif;font-size:14px;color:#ffffff;"></a>
+                      <a target="_blank"  href="https://www.facebook.com/GDforEmployers/" style="text-decoration:none;"><img src="http://resources.glassdoor.com/rs/899-LOT-464/images/gd-facebook-36x36.png" alt="Facebook" width="36" style="display:block;border:0;outline:0;padding:0;width:36px;height:auto;font-family:'Lato', Helvetica, Arial, sans-serif;font-size:14px;color:#ffffff;"></a>
                     </td>
                     <td align="center">
                       <a target="_blank"  href="https://www.youtube.com/channel/UCv5AXseX6C08gVbtM1ZeQOw" style="text-decoration:none;"><img src="http://resources.glassdoor.com/rs/899-LOT-464/images/gd-youtube.png" alt="YouTube" width="36" style="display:block;border:0;outline:0;padding:0;width:36px;height:auto;font-family:'Lato', Helvetica, Arial, sans-serif;font-size:14px;color:#ffffff;"></a>
@@ -158,24 +141,23 @@ labels:
             </tr>
             <tr>
               <td style="padding-top:25px;font-family:'Lato', Helvetica, Arial, sans-serif;font-size:12px;line-height:18px;color:#ffffff;text-align:center;border-top:solid 1px #7F7F7F;">
-                This message was sent to <a href="http://glassdoor.com/" style="color:#ffffff;text-decoration:underline;">##TOKEN - lead.Email
-                Address:default=your email address - TOKEN##</a> by Glassdoor.
-                Questions? ##TOKEN - my.Universal Phone Number --TOKEN##
+                This message was sent to <span style="color:#ffffff;text-decoration:underline;">\{{lead.Email
+                Address:default=your email address}}</span> by Glassdoor. \{{my.Universal Phone Number}}
               </td>
             </tr>
 
             <tr>
               <td align="center" style="padding-top:20px;font-family:'Lato', Helvetica, Arial, sans-serif;font-size:12px;line-height:22px;color:#ffffff;text-align:center;">
-                <a href="https://www.glassdoor.com/employers/blog/" style="font-family:'Lato', Helvetica, Arial, sans-serif;font-size:12px;color:#ffffff;text-decoration:none;">Blog</a>&nbsp; &nbsp;|&nbsp;
-                &nbsp;<a href="https://www.glassdoor.com/employers/resources/ebooks.htm" style="font-family:'Lato', Helvetica, Arial, sans-serif;font-size:12px;color:#ffffff;text-decoration:none;">Resources</a>&nbsp; &nbsp;|&nbsp;
-                &nbsp;<a href="https://www.glassdoor.com/about/privacy.htm" style="font-family:'Lato', Helvetica, Arial, sans-serif;font-size:12px;color:#ffffff;text-decoration:none;">Privacy Policy</a>&nbsp; &nbsp;|&nbsp;
+                <a target="_blank" href="https://www.glassdoor.com/employers/blog/" style="font-family:'Lato', Helvetica, Arial, sans-serif;font-size:12px;color:#ffffff;text-decoration:none;">Blog</a>&nbsp; &nbsp;|&nbsp;
+                &nbsp;<a target="_blank" href="https://www.glassdoor.com/employers/resources/ebooks.htm" style="font-family:'Lato', Helvetica, Arial, sans-serif;font-size:12px;color:#ffffff;text-decoration:none;">Resources</a>&nbsp; &nbsp;|&nbsp;
+                &nbsp;<a target="_blank" href="https://www.glassdoor.com/about/privacy.htm" style="font-family:'Lato', Helvetica, Arial, sans-serif;font-size:12px;color:#ffffff;text-decoration:none;">Privacy Policy</a>&nbsp; &nbsp;|&nbsp;
 
-                &nbsp;<a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##" style="font-family:'Lato', Helvetica, Arial, sans-serif;font-size:12px;color:#ffffff;text-decoration:none;">Unsubscribe</a>
+                &nbsp;<a target="_blank" href="http://resources.glassdoor.com/unsubscribe.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##" style="font-family:'Lato', Helvetica, Arial, sans-serif;font-size:12px;color:#ffffff;text-decoration:none;">Unsubscribe</a>
               </td>
             </tr>
             <tr>
               <td align="center" style="padding-top:20px;">
-                <a href="https://www.glassdoor.com/employers/index.htm" style="text-decoration:none;"><img src="http://resources.glassdoor.com/rs/899-LOT-464/images/footer-em-logo.png" alt="Glassdoor" width="66" style="display:block;border:0;outline:0;padding:0;width:66px;height:auto;font-family:'Lato', Helvetica, Arial, sans-serif;font-size:14px;color:#ffffff;"></a>
+                <a target="_blank" href="https://www.glassdoor.com/employers/index.htm" style="text-decoration:none;"><img src="http://resources.glassdoor.com/rs/899-LOT-464/images/footer-em-logo.png" alt="Glassdoor" width="66" style="display:block;border:0;outline:0;padding:0;width:66px;height:auto;font-family:'Lato', Helvetica, Arial, sans-serif;font-size:14px;color:#ffffff;"></a>
               </td>
             </tr>
             <tr>
