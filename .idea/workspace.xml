@@ -3,15 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b04856e4-7ef9-45dc-8952-91bc2233cd69" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/demos/demo-example-3.hbs" afterPath="$PROJECT_DIR$/src/pages/demos/demo-example-3.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/patterns/components/modules/background-image.hbs" afterPath="$PROJECT_DIR$/src/patterns/components/modules/background-image.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/toolkit/styles/base/typography.css" afterPath="$PROJECT_DIR$/src/assets/toolkit/styles/base/typography.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/patterns/components/modules/calendar-buttons.hbs" afterPath="$PROJECT_DIR$/src/patterns/components/modules/calendar-buttons.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/patterns/components/modules/newsletter.hbs" afterPath="$PROJECT_DIR$/src/patterns/components/modules/newsletter.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/patterns/components/modules/primary.hbs" afterPath="$PROJECT_DIR$/src/patterns/components/modules/primary.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/patterns/components/modules/signature.hbs" afterPath="$PROJECT_DIR$/src/patterns/components/modules/signature.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/patterns/components/modules/speakers.hbs" afterPath="$PROJECT_DIR$/src/patterns/components/modules/speakers.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/patterns/components/modules/tertiary.hbs" afterPath="$PROJECT_DIR$/src/patterns/components/modules/tertiary.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/patterns/elements/typographic/superscript-html.hbs" afterPath="$PROJECT_DIR$/src/patterns/elements/typographic/superscript-html.hbs" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,7 +18,55 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="calendar-buttons.hbs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/patterns/components/modules/calendar-buttons.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="12" lean-forward="false" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+              <folding>
+                <marker date="1508455774000" expanded="true" signature="1457:1469" ph="..." />
+                <marker date="1508455774000" expanded="true" signature="1502:1514" ph="..." />
+                <marker date="1508455774000" expanded="true" signature="1667:1704" ph="..." />
+                <marker date="1508455774000" expanded="true" signature="1752:1768" ph="..." />
+                <marker date="1508455774000" expanded="true" signature="2333:2345" ph="..." />
+                <marker date="1508455774000" expanded="true" signature="2378:2390" ph="..." />
+                <marker date="1508455774000" expanded="true" signature="3329:3335" ph=" " />
+                <marker date="1508455774000" expanded="true" signature="3335:3341" ph=" " />
+                <marker date="1508455774000" expanded="true" signature="3341:3347" ph=" " />
+                <marker date="1508455774000" expanded="true" signature="3347:3353" ph=" " />
+                <marker date="1508455774000" expanded="true" signature="3353:3359" ph=" " />
+                <marker date="1508455774000" expanded="true" signature="3359:3365" ph=" " />
+                <marker date="1508455774000" expanded="true" signature="4256:4262" ph=" " />
+                <marker date="1508455774000" expanded="true" signature="4262:4268" ph=" " />
+                <marker date="1508455774000" expanded="true" signature="4268:4274" ph=" " />
+                <marker date="1508455774000" expanded="true" signature="4274:4280" ph=" " />
+                <marker date="1508455774000" expanded="true" signature="4280:4286" ph=" " />
+                <marker date="1508455774000" expanded="true" signature="4286:4292" ph=" " />
+                <marker date="1508455774000" expanded="true" signature="5219:5225" ph=" " />
+                <marker date="1508455774000" expanded="true" signature="5225:5231" ph=" " />
+                <marker date="1508455774000" expanded="true" signature="5231:5237" ph=" " />
+                <marker date="1508455774000" expanded="true" signature="5237:5243" ph=" " />
+                <marker date="1508455774000" expanded="true" signature="5243:5249" ph=" " />
+                <marker date="1508455774000" expanded="true" signature="5249:5255" ph=" " />
+                <marker date="1508455774000" expanded="true" signature="6139:6145" ph=" " />
+                <marker date="1508455774000" expanded="true" signature="6145:6151" ph=" " />
+                <marker date="1508455774000" expanded="true" signature="6151:6157" ph=" " />
+                <marker date="1508455774000" expanded="true" signature="6157:6163" ph=" " />
+                <marker date="1508455774000" expanded="true" signature="6163:6169" ph=" " />
+                <marker date="1508455774000" expanded="true" signature="6169:6175" ph=" " />
+                <marker date="1508455774000" expanded="true" signature="7076:7082" ph=" " />
+                <marker date="1508455774000" expanded="true" signature="7082:7088" ph=" " />
+                <marker date="1508455774000" expanded="true" signature="7088:7094" ph=" " />
+                <marker date="1508455774000" expanded="true" signature="7094:7100" ph=" " />
+                <marker date="1508455774000" expanded="true" signature="7100:7106" ph=" " />
+                <marker date="1508455774000" expanded="true" signature="7106:7112" ph=" " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -42,7 +83,6 @@
         <option value="$PROJECT_DIR$/src/patterns/elements/bullets/superscript-html.hbs" />
         <option value="$PROJECT_DIR$/src/patterns/elements/preheader/preheader.hbs" />
         <option value="$PROJECT_DIR$/src/data/colors.yaml" />
-        <option value="$PROJECT_DIR$/src/assets/toolkit/styles/base/typography.css" />
         <option value="$PROJECT_DIR$/src/assets/drizzle/styles/prism.css" />
         <option value="$PROJECT_DIR$/src/templates/drizzle/logo.hbs" />
         <option value="$PROJECT_DIR$/src/data/project.yaml" />
@@ -76,7 +116,6 @@
         <option value="$PROJECT_DIR$/src/pages/demos/demo-example-3.hbs" />
         <option value="$PROJECT_DIR$/src/patterns/components/modules/background-image.hbs" />
         <option value="$PROJECT_DIR$/src/patterns/components/modules/banner-image.hbs" />
-        <option value="$PROJECT_DIR$/src/patterns/components/modules/calendar-buttons.hbs" />
         <option value="$PROJECT_DIR$/src/patterns/components/modules/ebook-hero.hbs" />
         <option value="$PROJECT_DIR$/src/patterns/components/modules/event-hero.hbs" />
         <option value="$PROJECT_DIR$/src/patterns/components/modules/newsletter.hbs" />
@@ -90,6 +129,8 @@
         <option value="$PROJECT_DIR$/src/patterns/components/modules/title-subtitle-button.hbs" />
         <option value="$PROJECT_DIR$/src/patterns/components/modules/webinar-hero.hbs" />
         <option value="$PROJECT_DIR$/src/patterns/elements/typographic/superscript-html.hbs" />
+        <option value="$PROJECT_DIR$/src/assets/toolkit/styles/base/typography.css" />
+        <option value="$PROJECT_DIR$/src/patterns/components/modules/calendar-buttons.hbs" />
       </list>
     </option>
   </component>
@@ -110,9 +151,9 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="92" />
-    <option name="y" value="126" />
-    <option name="width" value="1318" />
+    <option name="x" value="42" />
+    <option name="y" value="575" />
+    <option name="width" value="1653" />
     <option name="height" value="808" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -319,6 +360,46 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drizzle-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drizzle-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="toolkit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drizzle-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drizzle-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -429,27 +510,29 @@
       <workItem from="1506548327688" duration="3795000" />
       <workItem from="1507161778983" duration="3027000" />
       <workItem from="1507682281273" duration="393000" />
-      <workItem from="1508361304964" duration="2403000" />
+      <workItem from="1508361304964" duration="2728000" />
+      <workItem from="1508453862743" duration="927000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29457000" />
+    <option name="totallyTimeSpent" value="30709000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="92" y="126" width="1318" height="808" extended-state="0" />
+    <frame x="42" y="575" width="1653" height="808" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33616036" sideWeight="0.46648043" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26715687" sideWeight="0.46089387" order="3" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33616036" sideWeight="0.53351957" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26715687" sideWeight="0.53910613" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -470,27 +553,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/templates/default.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="115" lean-forward="false" selection-start-line="3" selection-start-column="115" selection-end-line="3" selection-end-column="115" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/toolkit/styles/toolkit.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/toolkit/styles/base/config.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -499,34 +561,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/toolkit/styles/base/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/toolkit/styles/base/typography.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/drizzle/styles/prism.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-318">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/drizzle/styles/utils/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/drizzle/styles/utils/link.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -554,48 +588,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/drizzle/styles/utils/type.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/drizzle/styles/drizzle.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/drizzle/styles/components/item.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/drizzle/styles/base/config.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/drizzle/styles/base/typography.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/drizzle/styles/base/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/drizzle/styles/components/nav.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
@@ -610,31 +602,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/drizzle/styles/components/layout.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/drizzle/styles/components/label.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/drizzle/styles/components/frame-thumb.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="15" column="56" lean-forward="false" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/drizzle/styles/components/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -875,110 +846,6 @@
             <marker date="1508441466000" expanded="true" signature="3262:3268" ph=" " />
             <marker date="1508441466000" expanded="true" signature="3268:3274" ph=" " />
             <marker date="1508441466000" expanded="true" signature="3274:3280" ph=" " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/patterns/components/modules/calendar-buttons.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="637">
-          <caret line="80" column="8" lean-forward="false" selection-start-line="80" selection-start-column="8" selection-end-line="80" selection-end-column="8" />
-          <folding>
-            <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#label#0;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
-            <element signature="e#2032#2038#0#HTML" expanded="true" />
-            <element signature="e#2038#2044#0#HTML" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
-            <element signature="e#2223#2229#1#HTML" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#div#1;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#div#1;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#p#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
-            <element signature="e#3733#3739#0#HTML" expanded="true" />
-            <element signature="e#3739#3745#0#HTML" expanded="true" />
-            <element signature="e#3759#3765#0#HTML" expanded="true" />
-            <element signature="e#3765#3771#0#HTML" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#p#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
-            <element signature="e#4596#4602#0#HTML" expanded="true" />
-            <element signature="e#4602#4608#0#HTML" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#a#0;n#p#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
-            <element signature="e#4660#4666#0#HTML" expanded="true" />
-            <element signature="e#4666#4672#0#HTML" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#p#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#td#0;n#tr#2;n#table#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
-            <element signature="e#5499#5505#0#HTML" expanded="true" />
-            <element signature="e#5505#5511#0#HTML" expanded="true" />
-            <element signature="e#5518#5524#0#HTML" expanded="true" />
-            <element signature="e#5524#5530#0#HTML" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#p#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
-            <element signature="e#6360#6366#0#HTML" expanded="true" />
-            <element signature="e#6366#6372#0#HTML" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#a#0;n#p#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
-            <element signature="e#6425#6431#0#HTML" expanded="true" />
-            <element signature="e#6431#6437#0#HTML" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#4;n#table#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#td#0;n#tr#4;n#table#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#p#0;n#td#0;n#tr#4;n#table#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#td#0;n#tr#4;n#table#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
-            <element signature="e#7228#7234#0#HTML" expanded="true" />
-            <element signature="e#7234#7240#0#HTML" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#a#0;n#p#0;n#td#0;n#tr#4;n#table#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#div#0;n#td#0;n#tr#3;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
-            <element signature="e#7291#7297#0#HTML" expanded="true" />
-            <element signature="e#7297#7303#0#HTML" expanded="true" />
-            <marker date="1508441875000" expanded="true" signature="1457:1469" ph="..." />
-            <marker date="1508441875000" expanded="true" signature="1502:1514" ph="..." />
-            <marker date="1508441875000" expanded="true" signature="1667:1704" ph="..." />
-            <marker date="1508441875000" expanded="true" signature="1752:1768" ph="..." />
-            <marker date="1508441875000" expanded="true" signature="2333:2345" ph="..." />
-            <marker date="1508441875000" expanded="true" signature="2378:2390" ph="..." />
-            <marker date="1508441875000" expanded="true" signature="3329:3335" ph=" " />
-            <marker date="1508441875000" expanded="true" signature="3335:3341" ph=" " />
-            <marker date="1508441875000" expanded="true" signature="3341:3347" ph=" " />
-            <marker date="1508441875000" expanded="true" signature="3347:3353" ph=" " />
-            <marker date="1508441875000" expanded="true" signature="3353:3359" ph=" " />
-            <marker date="1508441875000" expanded="true" signature="3359:3365" ph=" " />
-            <marker date="1508441875000" expanded="true" signature="4194:4200" ph=" " />
-            <marker date="1508441875000" expanded="true" signature="4200:4206" ph=" " />
-            <marker date="1508441875000" expanded="true" signature="4206:4212" ph=" " />
-            <marker date="1508441875000" expanded="true" signature="4212:4218" ph=" " />
-            <marker date="1508441875000" expanded="true" signature="4218:4224" ph=" " />
-            <marker date="1508441875000" expanded="true" signature="4224:4230" ph=" " />
-            <marker date="1508441875000" expanded="true" signature="5095:5101" ph=" " />
-            <marker date="1508441875000" expanded="true" signature="5101:5107" ph=" " />
-            <marker date="1508441875000" expanded="true" signature="5107:5113" ph=" " />
-            <marker date="1508441875000" expanded="true" signature="5113:5119" ph=" " />
-            <marker date="1508441875000" expanded="true" signature="5119:5125" ph=" " />
-            <marker date="1508441875000" expanded="true" signature="5125:5131" ph=" " />
-            <marker date="1508441875000" expanded="true" signature="5953:5959" ph=" " />
-            <marker date="1508441875000" expanded="true" signature="5959:5965" ph=" " />
-            <marker date="1508441875000" expanded="true" signature="5965:5971" ph=" " />
-            <marker date="1508441875000" expanded="true" signature="5971:5977" ph=" " />
-            <marker date="1508441875000" expanded="true" signature="5977:5983" ph=" " />
-            <marker date="1508441875000" expanded="true" signature="5983:5989" ph=" " />
-            <marker date="1508441875000" expanded="true" signature="6828:6834" ph=" " />
-            <marker date="1508441875000" expanded="true" signature="6834:6840" ph=" " />
-            <marker date="1508441875000" expanded="true" signature="6840:6846" ph=" " />
-            <marker date="1508441875000" expanded="true" signature="6846:6852" ph=" " />
-            <marker date="1508441875000" expanded="true" signature="6852:6858" ph=" " />
-            <marker date="1508441875000" expanded="true" signature="6858:6864" ph=" " />
           </folding>
         </state>
       </provider>
@@ -1422,6 +1289,179 @@
             <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#sup#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
             <marker date="1508442078000" expanded="true" signature="98:110" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/patterns/elements/typographic/collection.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/colors.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/drizzle/styles/base/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/drizzle/styles/utils/type.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/drizzle/styles/utils/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/drizzle/styles/prism.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-43">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/drizzle/styles/drizzle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/drizzle/styles/utils/link.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/drizzle/styles/components/layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/drizzle/styles/components/label.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/drizzle/styles/components/item.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/drizzle/styles/components/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/drizzle/styles/base/config.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="51" lean-forward="true" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/drizzle/styles/base/typography.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/toolkit/styles/toolkit.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/toolkit/styles/base/typography.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/patterns/components/modules/calendar-buttons.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="12" lean-forward="false" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          <folding>
+            <marker date="1508455774000" expanded="true" signature="1457:1469" ph="..." />
+            <marker date="1508455774000" expanded="true" signature="1502:1514" ph="..." />
+            <marker date="1508455774000" expanded="true" signature="1667:1704" ph="..." />
+            <marker date="1508455774000" expanded="true" signature="1752:1768" ph="..." />
+            <marker date="1508455774000" expanded="true" signature="2333:2345" ph="..." />
+            <marker date="1508455774000" expanded="true" signature="2378:2390" ph="..." />
+            <marker date="1508455774000" expanded="true" signature="3329:3335" ph=" " />
+            <marker date="1508455774000" expanded="true" signature="3335:3341" ph=" " />
+            <marker date="1508455774000" expanded="true" signature="3341:3347" ph=" " />
+            <marker date="1508455774000" expanded="true" signature="3347:3353" ph=" " />
+            <marker date="1508455774000" expanded="true" signature="3353:3359" ph=" " />
+            <marker date="1508455774000" expanded="true" signature="3359:3365" ph=" " />
+            <marker date="1508455774000" expanded="true" signature="4256:4262" ph=" " />
+            <marker date="1508455774000" expanded="true" signature="4262:4268" ph=" " />
+            <marker date="1508455774000" expanded="true" signature="4268:4274" ph=" " />
+            <marker date="1508455774000" expanded="true" signature="4274:4280" ph=" " />
+            <marker date="1508455774000" expanded="true" signature="4280:4286" ph=" " />
+            <marker date="1508455774000" expanded="true" signature="4286:4292" ph=" " />
+            <marker date="1508455774000" expanded="true" signature="5219:5225" ph=" " />
+            <marker date="1508455774000" expanded="true" signature="5225:5231" ph=" " />
+            <marker date="1508455774000" expanded="true" signature="5231:5237" ph=" " />
+            <marker date="1508455774000" expanded="true" signature="5237:5243" ph=" " />
+            <marker date="1508455774000" expanded="true" signature="5243:5249" ph=" " />
+            <marker date="1508455774000" expanded="true" signature="5249:5255" ph=" " />
+            <marker date="1508455774000" expanded="true" signature="6139:6145" ph=" " />
+            <marker date="1508455774000" expanded="true" signature="6145:6151" ph=" " />
+            <marker date="1508455774000" expanded="true" signature="6151:6157" ph=" " />
+            <marker date="1508455774000" expanded="true" signature="6157:6163" ph=" " />
+            <marker date="1508455774000" expanded="true" signature="6163:6169" ph=" " />
+            <marker date="1508455774000" expanded="true" signature="6169:6175" ph=" " />
+            <marker date="1508455774000" expanded="true" signature="7076:7082" ph=" " />
+            <marker date="1508455774000" expanded="true" signature="7082:7088" ph=" " />
+            <marker date="1508455774000" expanded="true" signature="7088:7094" ph=" " />
+            <marker date="1508455774000" expanded="true" signature="7094:7100" ph=" " />
+            <marker date="1508455774000" expanded="true" signature="7100:7106" ph=" " />
+            <marker date="1508455774000" expanded="true" signature="7106:7112" ph=" " />
           </folding>
         </state>
       </provider>
